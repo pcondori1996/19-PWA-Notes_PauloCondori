@@ -1,4 +1,44 @@
 # 19 Progressive Web Applications (PWA): Text Editor
+Set up connections and function fo webpack 
+
+## Description
+- I connected the routes so that the db.json could be displayed on the front end
+
+### What was your motivation?
+New material covered back-end it was new material for me and I was excited about it
+
+### Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+PWA is newer concepts, so it was good to have some experience in that. 
+
+### What problem does it solve?
+Connect the webpack extenstions with the right files and of course finish the logic in those files 
+if need be
+
+### What did you learn?
+How to set up webpack use in your aplication
+
+## Table of Contents 
+
+-[Installation](#installation)
+-[Usage/Instructions](#Usage/Instructions)
+-[Contributing](#Contributing)
+-[Test](#Test)
+-[Questions](#Questions)
+
+## Installation
+Run node server.js and test it out
+
+## Usage/Instructions
+
+![Open the heroku website](https://desolate-earth-90638.herokuapp.com/)
+
+
+## Contributing
+- Paulo Sergio Condori Pinedo
+
+
+#Questions 
+If you have any questions about the repo, open an issue or contact me directly at paulocondori1@gmail.com. You can find more of my work at pcondori1996)
 
 ## Your Task
 
